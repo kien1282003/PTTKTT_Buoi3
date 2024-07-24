@@ -1,0 +1,7 @@
+C:\PTTKTT\PTTKTT_Buoi3\TinhTongMang\bin\Debug\TinhTongMang.exe.config
+C:\PTTKTT\PTTKTT_Buoi3\TinhTongMang\bin\Debug\TinhTongMang.exe
+C:\PTTKTT\PTTKTT_Buoi3\TinhTongMang\bin\Debug\TinhTongMang.pdb
+C:\PTTKTT\PTTKTT_Buoi3\TinhTongMang\obj\Debug\TinhTongMang.csproj.AssemblyReference.cache
+C:\PTTKTT\PTTKTT_Buoi3\TinhTongMang\obj\Debug\TinhTongMang.csproj.CoreCompileInputs.cache
+C:\PTTKTT\PTTKTT_Buoi3\TinhTongMang\obj\Debug\TinhTongMang.exe
+C:\PTTKTT\PTTKTT_Buoi3\TinhTongMang\obj\Debug\TinhTongMang.pdb

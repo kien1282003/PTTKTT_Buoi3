@@ -1,0 +1,7 @@
+C:\PTTKTT\PTTKTT_Buoi3\Binary Search\bin\Debug\Binary Search.exe.config
+C:\PTTKTT\PTTKTT_Buoi3\Binary Search\bin\Debug\Binary Search.exe
+C:\PTTKTT\PTTKTT_Buoi3\Binary Search\bin\Debug\Binary Search.pdb
+C:\PTTKTT\PTTKTT_Buoi3\Binary Search\obj\Debug\Binary Search.csproj.AssemblyReference.cache
+C:\PTTKTT\PTTKTT_Buoi3\Binary Search\obj\Debug\Binary Search.csproj.CoreCompileInputs.cache
+C:\PTTKTT\PTTKTT_Buoi3\Binary Search\obj\Debug\Binary Search.exe
+C:\PTTKTT\PTTKTT_Buoi3\Binary Search\obj\Debug\Binary Search.pdb
